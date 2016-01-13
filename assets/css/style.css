@@ -62,7 +62,7 @@ NAVBAR STYLES
 }
 .navbar-default
 {
-    background-color:#2D9E6B;
+    background-color:#8BC34A;
     border-color:transparent;
 }
 /* ADDED PADDING IN NAVBAR */
@@ -121,7 +121,7 @@ border-radius: 4px;
     padding-bottom: 40px;
 }
     #header a {
-        color:#2D9E6B;
+        color:#8BC34A;
     }
     #header a:hover {
         color:#fff;
@@ -186,7 +186,8 @@ border-radius: 4px;
 
         .btn-google {
             background-color: #c32f10;
-        }
+        }
+
 /* =============================================================
   FOOTER SECTION STYLES
  ============================================================ */
